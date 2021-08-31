@@ -1,3 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://vivi:1234@quotes-cluster.vyo4v.mongodb.net/quotesDB?retryWrites=true&w=majority"
-}
